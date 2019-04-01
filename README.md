@@ -16,6 +16,14 @@ Map Spec
 #### CRS
 ```Asia_Lambert_Conformal_Conic Projection: Lambert_Conformal_Conic```
 
+#### Labeling
+- Label in .ai
+- County Names ```sql UPPER```
+- City Names ```sql Capitalized```
+
+#### Export
+- Use RGB for projector use
+
 Layer Spec
 ======
 
