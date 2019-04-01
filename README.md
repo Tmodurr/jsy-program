@@ -18,8 +18,8 @@ Map Spec
 
 #### Labeling
 - Label in .ai
-- County Names ```sql UPPER```
-- City Names ```sql Capitalized```
+- County Names ```UPPER```
+- City Names ```Capitalized```
 
 #### Export
 - Use RGB for projector use
