@@ -10,6 +10,5 @@ Conference work for India's Janani Suraksha Yojana (JSY) program
 
 
 #### CRS
-```Asia_Lambert_Conformal_Conic
-Projection: Lambert_Conformal_Conic```
+```Asia_Lambert_Conformal_Conic Projection: Lambert_Conformal_Conic```
 
