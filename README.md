@@ -31,3 +31,7 @@ Layer Spec
 ```sql
 ST_NAME IN ( 'Uttar Pradesh', 'Uttarakhand', 'Bihar', 'Jharkhand', 'Madhya Pradesh', 'Chhattisgarh', 'Himachal Pradesh', 'Rajasthan', 'Orissa', 'Jammu And Kashmir')
 ```
+
+#### Dataset extents/style
+
+- Clip water bodies to landmasses (erase)
