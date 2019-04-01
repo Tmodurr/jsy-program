@@ -8,7 +8,11 @@ Conference work for India's Janani Suraksha Yojana (JSY) program
 
 #### [External Countries boundaries](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
 
-
 #### CRS
 ```Asia_Lambert_Conformal_Conic Projection: Lambert_Conformal_Conic```
 
+
+#### Select project states
+```sql
+ST_NAME IN ( 'Uttar Pradesh', 'Uttarakhand', 'Bihar', 'Jharkhand', 'Madhya Pradesh', 'Chhattisgarh', 'Himachal Pradesh', 'Rajasthan', 'Orissa', 'Jammu And Kashmir')
+```
