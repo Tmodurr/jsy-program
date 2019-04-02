@@ -35,3 +35,18 @@ ST_NAME IN ( 'Uttar Pradesh', 'Uttarakhand', 'Bihar', 'Jharkhand', 'Madhya Prade
 #### Dataset extents/style
 
 - Clip water bodies to landmasses (erase)
+
+
+
+##### Notes from draft
+- Don't overlap polys, bitch to work with transparency
+- Record fonts you like, always happens like this............
+- Generalized boundaries are better but make sure you snap em or use same origin 
+- record title fonts 
+- go back through grouping and merging layers
+
+
+
+
+
+
